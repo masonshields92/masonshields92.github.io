@@ -54,6 +54,12 @@ h2 {
 ul {
     font-size: x-large;
 }
+.borderleft{
+    float: left;
+}
+.borderright{
+    float: right;
+}
 .menu{
     padding: 25px;
     text-align: center;
